@@ -3,8 +3,8 @@
 ## Olá pessoal
 Sou um desenvolvedor Fullstack e estou sempre em busca de oportunidades de aprender mais e resolver novos problemas
 
-- Estou trabalhando atualmente na 4 Results como Desenvolvedor Dynamics 365 FO
-- Atualmente estou aprendendo GatsbyJS e geração de páginas estáticas com React
+- Atualmente eu estou trabalhando remoto na Hero99 como Desenvolvedor FullStack
+- Trabalho diariamente com Node.js, ReactJS, Next.js e TypeScript
 - Minha stack: ReactJS, Node.js, React Native e Typescript
 
 
@@ -15,8 +15,8 @@ Você pode entrar em contato comigo pelo: [![Linkedin Badge](https://img.shields
 ## Hello there
 I'm a Fullstack developer and I'm always looking for new opportunities to learn and to solve new problems
 
-- I'm currently working at 4 Results (Curitiba - Brazil) as a Dynamics 365 FO Developer
-- I'm currently learning GatsbyJS and static page generation with React
+- I'm currently working remotly at Hero99 (Curitiba - Brazil) as a FullStack Developer
+- I work daily with Node.js, ReactJS, Next.js and TypeScript
 - My development stack is: ReactJS, Node.js, React Native and Typescript
 
 
